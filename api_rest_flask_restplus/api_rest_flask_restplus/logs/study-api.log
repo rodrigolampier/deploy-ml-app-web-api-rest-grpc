@@ -1,0 +1,246 @@
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:38:24] "[1m[35mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 500 -
+127.0.0.1 - - [06/Feb/2021 21:40:21] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\business\\tratamento_dados_previsao.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:41:12] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:41:39] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:42:34] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:42:36] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:42:51] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:44:09] "[33mGET /api/predict/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:44:17] "[33mGET /predict/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:44:22] "[33mGET /predict HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:44:28] "[33mGET /api/predict HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:44:54] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:45:08] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:45:09] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:45:11] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:46:38] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\restplus.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:47:26] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:47:27] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:47:28] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:47:28] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:47:29] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:47:49] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:48:33] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:49:22] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:49:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\config\\app_config.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:50:16] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:50:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:50:34] "[33mGET /api/doc HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\config\\app_config.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:52:52] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 21:53:31] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 21:53:39] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\endpoints\\predict.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 22:01:22] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:01:22] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 22:01:59] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:01:59] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:00] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:00] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:01] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:01] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:04] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:02:04] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 22:02:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Feb/2021 22:02:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Feb/2021 22:02:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Feb/2021 22:02:49] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\app.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Restarting with stat
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger is active!
+ * Debugger PIN: 316-754-765
+ * Debugger PIN: 316-754-765
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+ * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+127.0.0.1 - - [06/Feb/2021 22:09:50] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:09:50] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:09:53] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:09:53] "[33mPOST /api/predict/?sepal_length=1&sepal_width=2&petal_length=3&petal_width=4 HTTP/1.1[0m" 404 -
+127.0.0.1 - - [06/Feb/2021 22:11:01] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [06/Feb/2021 22:11:01] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\config\\api_restplus_config.py', reloading
+ * Detected change in 'R:\\Prog\\Temp\\17-Cap10\\api_rest_flask_restplus\\api_rest_flask_restplus\\config\\api_restplus_config.py', reloading
+ * Restarting with stat
+ * Restarting with stat
